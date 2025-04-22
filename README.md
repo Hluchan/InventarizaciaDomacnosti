@@ -1,4 +1,4 @@
-# InventarizaciaDomacnosti
+# Inventarizácia Domácnosti
 Semestrálna práca predmetu VAMZ
 Jednoduchá aplikácia na správu a sledovanie majetku a vybavenia vo vašej domácnosti.
 
